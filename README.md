@@ -33,8 +33,6 @@
 <img align="left" width="26px" height="26px" title="Jenkins" alt="Jenkins" src="https://img.icons8.com/?size=512&id=39292&format=png" />
 <img align="left" width="26px" height="26px" title="Firebase" alt="Firebase" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" width="26px" height="26px" title="Attlasian Jira" alt="Jira" src="https://user-images.githubusercontent.com/11347395/130452913-93ffb477-ca80-4965-b271-6409303f9fd3.png" />
-<img align="left" width="26px" height="26px" title="Slack" alt="Slack" src="https://static.surveysparrow.com/site/assets/integrations/inner/slack.png" />
-<img align="left" width="26px" height="26px" title="Asana" alt="Asana" src="https://cdn.worldvectorlogo.com/logos/asana-logo.svg" />
 <img align="left" width="26px" height="26px" title="PlantUML" alt="PlantUML" src="https://plugins.jetbrains.com/files/7017/122599/icon/pluginIcon.svg" />
 <img align="left" width="24px" height="26px" title="UML" alt="UML" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
 
